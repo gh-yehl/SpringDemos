@@ -26,9 +26,6 @@ public class TesterXMLAllocation {
 		System.out.println("running test...start to evoke Driver");
 		driver.drive();
 		System.out.println("running test...done");
-
-
 	}
-
 
 }
